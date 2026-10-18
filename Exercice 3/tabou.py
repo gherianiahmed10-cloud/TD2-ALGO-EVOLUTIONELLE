@@ -1,5 +1,5 @@
 """
-Fattoum Mohamed Khalil - LSI3 1.2
+gheriani trabelsi ahmed - LSI3 3.1
 TD2 - Exercice 3 : Voyageur de commerce par recherche taboue
 """
 from collections import deque

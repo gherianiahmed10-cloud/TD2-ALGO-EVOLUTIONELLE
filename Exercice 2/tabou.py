@@ -1,5 +1,5 @@
 """
-Fattoum Mohamed Khalil - LSI3 1.2
+gehriani trabelsi ahmed - LSI3 3.1
 TD2 - Exercice 2 : Problème de transport par recherche taboue
 """
 from collections import deque
